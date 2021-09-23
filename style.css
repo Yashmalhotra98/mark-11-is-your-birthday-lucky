@@ -4,9 +4,9 @@
 }
 
 body {
-    background-color: #e2ece9;
-    color: #480ca8;
-    font-family: 'Fjalla One', sans-serif;
+    background-color: #480ca8;
+    color: #e2ece9;
+    font-family: 'Gemunu Libre', sans-serif;
 }
 
 .main {
@@ -47,15 +47,16 @@ h1 {
     outline: none;
 }
 
-#check-number {
+#check-btn {
     margin-top: 0.5rem;
     padding: 1rem 2rem;
     font-size: 1rem;
     border-radius: 2rem;
     cursor: pointer;
+    font-family: 'Gemunu Libre', sans-serif;
 }
 
-#check-number:hover {
+#check-btn:hover {
     background-color: #dfe7fd;
 }
 
